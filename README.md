@@ -9,4 +9,4 @@ A typical simulated annealing algorithm will be able to find a good solution to 
 2. Ensure all deliveries are fulfilled
 ## 
 Hence a multi-objective simulated algorithm was used, which considers solutions where no one solution is strictly better than the other (ie. a solution may fare better at one objective but worse at another) and find a way to filter through them.
-[diagram](images/diagram.png)
+![diagram](images/diagram.png)
